@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\tdd-oop-polymorphism.CSharp.Main\tdd-oop-polymorphism.CSharp.Main.csproj" />
+    <ProjectReference Include="..\tdd-oop-polymorphism.CSharp.Main\tdd_oop_polymorphism.CSharp.Main.csproj" />
   </ItemGroup>
 
 </Project>
